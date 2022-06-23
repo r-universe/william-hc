@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DescriptiveWH"]
+	path = DescriptiveWH
+	url = https://github.com/william-hc/descriptivewh
+	shallow = true
+	registered = true
