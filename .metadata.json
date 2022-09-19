@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "DescriptiveWH",
+    "oncran": true
+  }
+]
